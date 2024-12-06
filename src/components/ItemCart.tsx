@@ -13,8 +13,8 @@ export function ItemCart() {
           <span className="font-bold text-rose-400">$0.00</span>
         </div>
       </div>
-      <button className="text-gray-400 hover:text-gray-500">
-        <CircleX size={20} className="" />
+      <button className="text-rose-400 hover:text-rose-900">
+        <CircleX size={20} />
       </button>
     </div>
   );
